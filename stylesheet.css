@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   padding: 0;
@@ -34,4 +35,9 @@ button:active {
   top: 4px;
   left: 4px;
   box-shadow: none;
+}
+
+.title {
+  color: #e6855e;
+  background-color: #f3f372;
 }
